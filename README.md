@@ -157,5 +157,3 @@ Project Link: [https://github.com/Shashank-133/ai-research-copilot](https://gith
 ---
 
 **⭐ Star this repository if you find it helpful!**
-
-Built with ❤️ using Python and AI
