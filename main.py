@@ -588,8 +588,7 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666; padding: 1rem;'>
     <p><strong>AI Research Co-Pilot Pro V3.0</strong></p>
-    <p>Built by [Your Name] | Personal Project 2026</p>
+    <p>Built by Shashank Gupta | Personal Project 2026</p>
     <p>Multi-Agent System • Web Search • Document Analysis • Export Reports</p>
-    <p>Powered by Nebius AI</p>
 </div>
 """, unsafe_allow_html=True)
